@@ -120,7 +120,7 @@
       "api": "http://zuidazy.me/api.php/provide/vod",
       "name": "TV-最大点播",
       "detail": "http://zuidazy.me"
-    }，
+    },
     "zuidapi": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "TV-最大资源",
